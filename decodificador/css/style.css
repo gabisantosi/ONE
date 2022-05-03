@@ -1,0 +1,99 @@
+body {
+  background-color: #F3F5FC;
+}
+
+header img {
+    margin: 2% 5%
+}
+
+.ps_text {
+    display: flex;
+
+}
+
+.ps_text {
+    font: 10px;
+}
+
+.ps_text img {
+    width: 3%;
+    height: 3%;
+    margin: 15px 8px 0 0;
+     
+}
+
+.button1 {
+  /* Auto layout */
+
+  width: 30%;
+  height: 50px;
+
+  /* Dark blue/dark-blue-300 */
+
+  background: #0a3871;
+  border-radius: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+
+  /* White */
+
+  color: #ffffff;
+
+}
+
+.button2 {
+    width: 30%;
+    height: 50px;
+  /* Light gray */
+
+  background: #d8dfe8;
+  /* Dark blue/dark-blue-300 */
+
+  border: 1px solid #0a3871;
+  box-sizing: border-box;
+  border-radius: 24px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  text-align: center;
+
+}
+
+input {
+    color: #0A3871;
+    border: none;
+    background-color: #F3F5FC;
+    font-size: 28px;
+    width: 100%;
+
+}
+
+.typetextbox {
+  margin: 2% 15%;  
+  width: 680px;
+  height: 48px;
+  font-family: "Inter";
+  font-style: normal; 
+}
+
+.resultbox{
+  /* Rectangle 1 */
+
+  position: absolute;
+  width: 28vw;
+  height: 700px;
+  left: 1000px;
+  top: 40px;
+
+  /* White */
+
+  background: #ffffff;
+  /* shadow */
+
+  box-shadow: 0px 24px 32px -8px rgba(0, 0, 0, 0.08);
+  border-radius: 32px;
+}
